@@ -10,7 +10,7 @@ the leader and the follower  are communicated by the e-Puck Range & Bearing Boar
 
 - e-puck Reference Manual
 
-- e-Puck Range & Bearing Board
+- e-Puck Range & Bearing Board Manual
 
 
 
